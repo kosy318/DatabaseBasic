@@ -57,6 +57,6 @@ img 삽입
 
 ## table
 
-img 삽입
+<img src="https://user-images.githubusercontent.com/77595685/192506907-9d97c65d-e09e-43e8-ba9c-ac8d6207e7b1.png" style="width: 1000px"/>
 
 ## 정규화
